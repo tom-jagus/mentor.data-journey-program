@@ -1,0 +1,5 @@
+SLA_ID,Priority,MaxHoursAllowed,SLA_Name
+1,Low,72,Low Priority SLA
+2,Medium,48,Medium Priority SLA
+3,High,24,High Priority SLA
+4,Critical,8,Critical Priority SLA

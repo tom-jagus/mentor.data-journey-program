@@ -1,0 +1,11 @@
+DeptID,DeptName,Function,HeadcountTarget
+1,Engineering,Product Development,120
+2,Finance,Financial Planning,167
+3,HR,Talent Management,70
+4,IT,Infrastructure,60
+5,Marketing,Brand & Comms,170
+6,Operations,Process Efficiency,56
+7,Product,Product Management,53
+8,Sales,Revenue Generation,105
+9,Support,Customer Experience,110
+10,Strategy,Corporate Strategy,70
